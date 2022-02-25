@@ -1,6 +1,6 @@
 # Proyecto-Data-Science - Caso: Analisis-Retails
 ### Mi proyecto final de Data Academy de Platzi: aprendí a profundizar el uso de la librería Pandas, Numpy, MatplotLib y seaborn. 
-ÍNDICE
+## ÍNDICE
 - Análisis de los 25 retailers más grandes de Estados Unidos
 a) analisis de ventas, usos de SLICES
 - Promedio de ventas(media): interpretación
