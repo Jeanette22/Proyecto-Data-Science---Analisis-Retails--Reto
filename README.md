@@ -3,7 +3,7 @@
 ÍNDICE
 - Análisis de los 25 retailers más grandes de Estados Unidos
 a) analisis de ventas, usos de SLICES
-- Promedio de ventas: interpretación
+- Promedio de ventas(media): interpretación
 b) Ventas de las mayoria de las empresas: uso de la "mediana"
 - gráfico con seaborn
 c) Cantidad de tiendas de la mayoria de compañias: "mediana"
