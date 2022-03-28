@@ -14,7 +14,7 @@
 10) 10) ¿Cuáles son los outliers?
 
 
-- Análisis de los 25 retailers más grandes de Estados Unidos
+### Análisis de los 25 retailers más grandes de Estados Unidos
 a) analisis de ventas, usos de SLICES
 - Promedio de ventas(media): interpretación
 b) Ventas de las mayoria de las empresas: uso de la "mediana"
@@ -33,23 +33,24 @@ h) Analisis de la Compañia en relacion a sus tiendas fisicas, con mas ventas.
 i) Analsis de empresas online y fisicas
 j) Analisis de OUTLIERS 
 
-#### Cuestiones técnicas:
+### Cuestiones técnicas:
 - Utilicé DeepNote
 - Librerias de Python utilizadas: pandas / numpy / matplotlib.pyplot / seaborn
 
-#### Teória y analisis estadisticos:
+### Teória y analisis estadisticos:
 Durante el desarrollo de este proyecto apliqué la teória y prácticas sobre estadisticas vista durante el DataCamp y en cursos de la Ruta Data Science, bajo los siguientes conceptos: 
 - Distribución de los datos:  
 Discreta: cuando no puede tomar ningún valor entre dos consecutivos. 
 Continua: cuando puede tomar cualquier valor dentro de un intervalo 
 En este caso en el proyecto se pueden visualizar en las gráficas con ventas / ingresos de empresas superiores a otras, dónde utilicé graficos de barra, dónde a simple vista puede notarse las diferencias, y señalar su promedio. 
 
-MEDIDAS DE TENDENCIA CENTRAL
+### MEDIDAS DE TENDENCIA CENTRAL
 "no se puede predecir el comportamiento individual pero si el comportamiento promedio!"
 La medida de tendencia central se usa para situar el que lugar esta el elemento promedio/ tipico del grupo. 
 Un ejemplo desde este proyecto fue el analsis del promedio (media) y la mediana
 - media (promedio): noción de centralidad de los datos, ubicación de ese conj de datos, es resumida
-![image](https://user-images.githubusercontent.com/80054717/160477809-1c02862e-e03a-495f-b63e-9804a0d62927.png)
+- ![image](https://user-images.githubusercontent.com/80054717/160477809-1c02862e-e03a-495f-b63e-9804a0d62927.png)
+
 (es el valor promedio de un conjunto de datos numéricos, calculada como la suma del conjunto de valores dividida entre el número total de valores.)
 - mediana (dato central) dato que está en la mitad, valor caracterizado, balanceado justo en la mitad, 
 (es un estadístico de posición central que parte la distribución en dos, es decir, deja la misma cantidad de valores a un lado que a otro.)
