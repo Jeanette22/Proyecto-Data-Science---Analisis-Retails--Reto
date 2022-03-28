@@ -37,7 +37,7 @@ j) Analisis de OUTLIERS
 - Utilicé DeepNote
 - Librerias de Python utilizadas: pandas / numpy / matplotlib.pyplot / seaborn
 
-### Teória y analisis estadisticos:
+### Teoría y análisis estadísticos:
 Durante el desarrollo de este proyecto apliqué la teória y prácticas sobre estadisticas vista durante el DataCamp y en cursos de la Ruta Data Science, bajo los siguientes conceptos: 
 - Distribución de los datos:  
 Discreta: cuando no puede tomar ningún valor entre dos consecutivos. 
