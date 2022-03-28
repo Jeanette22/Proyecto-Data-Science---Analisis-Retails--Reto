@@ -36,3 +36,45 @@ j) Analisis de OUTLIERS
 #### Cuestiones técnicas:
 - Utilicé DeepNote
 - Librerias de Python utilizadas: pandas / numpy / matplotlib.pyplot / seaborn
+
+#### Teória y analisis estadisticos:
+Durante el desarrollo de este proyecto apliqué la teória y prácticas sobre estadisticas vista durante el DataCamp y en cursos de la Ruta Data Science, bajo los siguientes conceptos: 
+- Distribución de los datos:  
+Discreta: cuando no puede tomar ningún valor entre dos consecutivos. 
+Continua: cuando puede tomar cualquier valor dentro de un intervalo 
+En este caso en el proyecto se pueden visualizar en las gráficas con ventas / ingresos de empresas superiores a otras, dónde utilicé graficos de barra, dónde a simple vista puede notarse las diferencias, y señalar su promedio. 
+
+MEDIDAS DE TENDENCIA CENTRAL
+"no se puede predecir el comportamiento individual pero si el comportamiento promedio!"
+La medida de tendencia central se usa para situar el que lugar esta el elemento promedio/ tipico del grupo. 
+Un ejemplo desde este proyecto fue el analsis del promedio (media) y la mediana
+- media (promedio): noción de centralidad de los datos, ubicación de ese conj de datos, es resumida
+![image](https://user-images.githubusercontent.com/80054717/160477809-1c02862e-e03a-495f-b63e-9804a0d62927.png)
+(es el valor promedio de un conjunto de datos numéricos, calculada como la suma del conjunto de valores dividida entre el número total de valores.)
+- mediana (dato central) dato que está en la mitad, valor caracterizado, balanceado justo en la mitad, 
+(es un estadístico de posición central que parte la distribución en dos, es decir, deja la misma cantidad de valores a un lado que a otro.)
+- moda (dato que más se repite): el dato que más se repite, o valor de la variable que más se repite
+- 
+- Estas medidas tambien sirven para realizar comparaciones, e interpretar resultados: Ejemple; Analsis de retails y su cantidad de tiendas
+- El uso de una misma variable para diferentes ocasiones, por ejemplo en casos donde el valor promedio no sea representativo y utilizamos la mediana. 
+- permite comparar resultados entre grupos, usando la media 
+
+
+Acotación: en la pregunta numero dos, justifico el uso de "la mediana" debido a que tenemos datos sesgados, esto porque si utilizamos todo el dataset 
+hay una gran diferencia respecto a WallMart y eso afecta a todos los resultados, por eso para responder ¿Cuánto dinero en ventas generó la mayoría de las compañías? y en la siguiente pregunte, dado a que en ambas se solicitaba "la mayoria de..." y consideré que era mas próximo a datos reales este tipo de medida. 
+Cualquier tipo de sugerencia es bienvenida! :)
+
+Otras medidas de tendencia central: 
+rango: distancia que abarca la distancia del valor min al max de un conj de datos 
+rango intercuartil: es la distancia entre cuartil q1 al q2 //cuartiles: define en cuatro subdivision homogenea,:// diagrama de caja, podemos verlo aca
+desviación estándar: La desviación estándar es la medida de dispersión más común, que indica qué tan dispersos están los datos con respecto a la media. Mientras mayor sea la desviación estándar, mayor será la dispersión de los datos.
+En estos último casos utilicé gráficos Scatter donde puede analizar la correlacion de variables, e interpretar los resultados para responder las preguntas solciitadas
+
+Por último sume un analisis de los quartiles 
+Cuartil	Descripción
+1er cuartil (Q1)	25% de los datos es menor que o igual a este valor.
+2do cuartil (Q2)	La mediana. 50% de los datos es menor que o igual a este valor.
+3er cuartil (Q3)	75% de los datos es menor que o igual a este valor.
+Rango intercuartil	La distancia entre el primer 1er cuartil y el 3er cuartil (Q3-Q1); de esta manera, abarca el 50% central de los datos.
+
+Para analizar dispersión y tendendencia central, usando el diagrama de caja como vimos en clases.
