@@ -65,17 +65,18 @@ Acotación: en la pregunta numero dos, justifico el uso de "la mediana" debido a
 hay una gran diferencia respecto a WallMart y eso afecta a todos los resultados, por eso para responder ¿Cuánto dinero en ventas generó la mayoría de las compañías? y en la siguiente pregunte, dado a que en ambas se solicitaba "la mayoria de..." y consideré que era mas próximo a datos reales este tipo de medida. 
 Cualquier tipo de sugerencia es bienvenida! :)
 
-Otras medidas de tendencia central: 
+### Otras medidas de tendencia central: 
 rango: distancia que abarca la distancia del valor min al max de un conj de datos 
 rango intercuartil: es la distancia entre cuartil q1 al q2 //cuartiles: define en cuatro subdivision homogenea,:// diagrama de caja, podemos verlo aca
 desviación estándar: La desviación estándar es la medida de dispersión más común, que indica qué tan dispersos están los datos con respecto a la media. Mientras mayor sea la desviación estándar, mayor será la dispersión de los datos.
 En estos último casos utilicé gráficos Scatter donde puede analizar la correlacion de variables, e interpretar los resultados para responder las preguntas solciitadas
 
-Por último sume un analisis de los quartiles 
-Cuartil	Descripción
-1er cuartil (Q1)	25% de los datos es menor que o igual a este valor.
-2do cuartil (Q2)	La mediana. 50% de los datos es menor que o igual a este valor.
-3er cuartil (Q3)	75% de los datos es menor que o igual a este valor.
-Rango intercuartil	La distancia entre el primer 1er cuartil y el 3er cuartil (Q3-Q1); de esta manera, abarca el 50% central de los datos.
+### Por último sume un analisis de los quartiles 
 
-Para analizar dispersión y tendendencia central, usando el diagrama de caja como vimos en clases.
+Cuartil	Descripción
+- 1er cuartil (Q1)	25% de los datos es menor que o igual a este valor.
+- 2do cuartil (Q2)	La mediana. 50% de los datos es menor que o igual a este valor.
+- 3er cuartil (Q3)	75% de los datos es menor que o igual a este valor.
+- Rango intercuartil	La distancia entre el primer 1er cuartil y el 3er cuartil (Q3-Q1); de esta manera, abarca el 50% central de los datos.
+
+### Para analizar dispersión y tendendencia central, usando el diagrama de caja como vimos en clases.
