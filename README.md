@@ -66,10 +66,10 @@ hay una gran diferencia respecto a WallMart y eso afecta a todos los resultados,
 Cualquier tipo de sugerencia es bienvenida! :)
 
 ### Otras medidas de tendencia central: 
-rango: distancia que abarca la distancia del valor min al max de un conj de datos 
-rango intercuartil: es la distancia entre cuartil q1 al q2 //cuartiles: define en cuatro subdivision homogenea,:// diagrama de caja, podemos verlo aca
-desviación estándar: La desviación estándar es la medida de dispersión más común, que indica qué tan dispersos están los datos con respecto a la media. Mientras mayor sea la desviación estándar, mayor será la dispersión de los datos.
-En estos último casos utilicé gráficos Scatter donde puede analizar la correlacion de variables, e interpretar los resultados para responder las preguntas solciitadas
+- rango: distancia que abarca la distancia del valor min al max de un conj de datos 
+- rango intercuartil: es la distancia entre cuartil q1 al q2 //cuartiles: define en cuatro subdivision homogenea,:// diagrama de caja, podemos verlo aca
+- desviación estándar: La desviación estándar es la medida de dispersión más común, que indica qué tan dispersos están los datos con respecto a la media. Mientras mayor sea la desviación estándar, mayor será la dispersión de los datos.
+- En estos último casos utilicé gráficos Scatter donde puede analizar la correlacion de variables, e interpretar los resultados para responder las preguntas solciitadas
 
 ### Por último sume un analisis de los quartiles 
 
