@@ -79,4 +79,4 @@ Cuartil	Descripción
 - 3er cuartil (Q3)	75% de los datos es menor que o igual a este valor.
 - Rango intercuartil	La distancia entre el primer 1er cuartil y el 3er cuartil (Q3-Q1); de esta manera, abarca el 50% central de los datos.
 
-### Para analizar dispersión y tendendencia central, usando el diagrama de caja como vimos en clases.
+### Para analizar dispersión y tendencia central, usando el diagrama de caja como vimos en clases.
