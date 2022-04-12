@@ -35,10 +35,11 @@ i) Analsis de empresas online y fisicas
 j) Analisis de OUTLIERS 
 
 ### Cuestiones técnicas:
-- Utilicé DeepNote
-Python 3.7:
+- Utilicé DeepNote ||   Python 3.7:
+##
 ![image](https://user-images.githubusercontent.com/80054717/162942946-2481d33d-bb22-4a2d-8ce0-b1358b8df41f.png)
 
+##
 - Pandas
 - Numpy
 - Matplotlib.pyplot
