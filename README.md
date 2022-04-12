@@ -1,7 +1,7 @@
-# RETO: Proyecto-Data-Science - Caso: Analisis-Retails
-### Mi proyecto final de Data Academy de Platzi: aprendí a profundizar el uso de la librería Pandas, Numpy, MatplotLib y seaborn. 
-## ÍNDICE
-#### Preguntas a responder: 
+# RETO: Proyecto final del reto de Data-Science - Caso: Analisis-Retails | Platzi
+ 
+## ÍNDICE:
+### Preguntas a responder: 
 1) Preguntas del negocio: ¿Cuál es el promedio de ventas sin contar a la compañía dominante?
 2) ¿Cuánto dinero en ventas generó la mayoría de las compañías?
 3) ¿Cuántas tiendas tiene la mayoría de las compañías?
@@ -13,9 +13,10 @@
 9) ¿Cuáles compañías venden de forma exclusivamente online? ¿Sus ventas destacan sobre las que también tienen tiendas físicas?
 10) 10) ¿Cuáles son los outliers?
 
-
+## Respuestas: 
 ### Análisis de los 25 retailers más grandes de Estados Unidos
-a) analisis de ventas, usos de SLICES
+- analisis de ventas, 
+a) Usos de SLICES
 - Promedio de ventas(media): interpretación
 b) Ventas de las mayoria de las empresas: uso de la "mediana"
 - gráfico con seaborn
@@ -35,7 +36,13 @@ j) Analisis de OUTLIERS
 
 ### Cuestiones técnicas:
 - Utilicé DeepNote
-- Librerias de Python utilizadas: pandas / numpy / matplotlib.pyplot / seaborn
+Python 3.7:
+![image](https://user-images.githubusercontent.com/80054717/162942946-2481d33d-bb22-4a2d-8ce0-b1358b8df41f.png)
+
+- Pandas
+- Numpy
+- Matplotlib.pyplot
+- Seaborn
 
 ### Teoría y análisis estadísticos:
 Durante el desarrollo de este proyecto apliqué la teória y prácticas sobre estadisticas vista durante el DataCamp y en cursos de la Ruta Data Science, bajo los siguientes conceptos: 
