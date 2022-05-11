@@ -88,3 +88,7 @@ Cuartil	Descripción
 - Rango intercuartil	La distancia entre el primer 1er cuartil y el 3er cuartil (Q3-Q1); de esta manera, abarca el 50% central de los datos.
 
 ### Para analizar dispersión y tendencia central, usando el diagrama de caja como vimos en clases.
+
+## También hice los gráficos en POWER BI para la visualización de datos:
+
+![analisis de retails - Power BI](https://user-images.githubusercontent.com/80054717/167846559-2b270450-3db4-4975-b398-5f2c42e712b8.png)
