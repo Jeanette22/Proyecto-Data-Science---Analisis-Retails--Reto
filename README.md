@@ -14,32 +14,17 @@
 10) 10) ¿Cuáles son los outliers?
 
 ## Respuestas: 
-### Análisis de los 25 retailers más grandes de Estados Unidos
-- analisis de ventas, 
-a) Usos de SLICES
-- Promedio de ventas(media): interpretación
-b) Ventas de las mayoria de las empresas: uso de la "mediana"
-- gráfico con seaborn
-c) Cantidad de tiendas de la mayoria de compañias: "mediana"
-- gráfico con seaborn, para analizar detalles
-d) Analisis de correlación entre cant de tiendas con sus ventas
-- gráfico Scatter
-e) Analisis del rango entre ventas: uso de formula
-f) Analisis de las empresas con mas tiendas fisicas
-- uso de señalador de colores con formato de Pandas
-g) Analisis de las categoria con más ventas
-- pandas: degrade de colores
-h) Analisis de la Compañia en relacion a sus tiendas fisicas, con mas ventas.
-- Grafico de barras
-i) Analsis de empresas online y fisicas
-j) Analisis de OUTLIERS 
+## También hice los gráficos en POWER BI para la visualización de datos:
+
+![analisis de retails - Power BI](https://user-images.githubusercontent.com/80054717/167846559-2b270450-3db4-4975-b398-5f2c42e712b8.png)
+
+![perfil opcion 2](https://user-images.githubusercontent.com/80054717/174830829-dca778a4-7b56-4b42-8942-362db9fa073f.png) 
+Otra opción de Visualización
 
 ### Cuestiones técnicas:
 - Utilicé DeepNote ||   Python 3.7:
-##
-![image](https://user-images.githubusercontent.com/80054717/162942946-2481d33d-bb22-4a2d-8ce0-b1358b8df41f.png)
 
-##
+## Librerias:
 - Pandas
 - Numpy
 - Matplotlib.pyplot
@@ -89,10 +74,5 @@ Cuartil	Descripción
 
 ### Para analizar dispersión y tendencia central, usando el diagrama de caja como vimos en clases.
 
-## También hice los gráficos en POWER BI para la visualización de datos:
-
-![analisis de retails - Power BI](https://user-images.githubusercontent.com/80054717/167846559-2b270450-3db4-4975-b398-5f2c42e712b8.png)
-
-![perfil opcion 2](https://user-images.githubusercontent.com/80054717/174830829-dca778a4-7b56-4b42-8942-362db9fa073f.png) 
-Otra opción de Visualización 
+ 
 
