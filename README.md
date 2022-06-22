@@ -13,11 +13,7 @@
 9) ¿Cuáles compañías venden de forma exclusivamente online? ¿Sus ventas destacan sobre las que también tienen tiendas físicas?
 10) 10) ¿Cuáles son los outliers?
 
-## Respuestas: 
-## También hice los gráficos en POWER BI para la visualización de datos:
-
-![analisis de retails - Power BI](https://user-images.githubusercontent.com/80054717/167846559-2b270450-3db4-4975-b398-5f2c42e712b8.png)
-
+## También hice los gráficos en Power BI para la visualización de datos, interacción, y a modo práctica:
 ![perfil opcion 2](https://user-images.githubusercontent.com/80054717/174830829-dca778a4-7b56-4b42-8942-362db9fa073f.png) 
 Otra opción de Visualización
 
