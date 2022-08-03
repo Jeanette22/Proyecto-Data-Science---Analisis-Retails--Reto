@@ -1,4 +1,4 @@
-# RETO: Proyecto final del reto de Data-Science - Caso: Analisis-Retails | Platzi
+# RETO:  Proyecto final del reto de Data-Science - Caso: Analisis-Retails | Platzi
  
 ## ÍNDICE:
 ### Preguntas a responder: 
